@@ -1,0 +1,20 @@
+# Simulator output
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+!results/plots/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+ml/models/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
